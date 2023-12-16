@@ -1,6 +1,8 @@
+![MasterHead](https://static.vecteezy.com/system/resources/previews/009/233/542/non_2x/data-analysis-banner-web-icon-set-analytics-search-data-mining-data-filter-pie-chart-and-etc-illustration-concept-vector.jpg)
+
 <h1 align="center">Hi 👋, I'm Kadambari Patel.</h1>
 <h3 align="center">I'm a student with a passion for unravelling the stories hidden in data.I am proficient in utilizing programming languages such as Python to perform data analysis tasks. My experience with SQL enables me to extract, transform, and manipulate data. In addition to technical skills, I am adept at using data visualization tools such as Tableau to create visually appealing and interactive representations of data, and as a dedicated person I prioritize staying up-to-date with the latest tools, techniques, and industry trends in the field of data analysis.</h3>
-
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*DsIpnvUFCtKFEXCWLx3g5Q.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kdkpatel&label=Profile%20views&color=0e75b6&style=flat" alt="kdkpatel" /> </p>
 
 - 🌱 I’m currently learning **advanced statistical methods and keeping up with the latest developments in data visualization.**
