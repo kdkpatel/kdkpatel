@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kadambari Patel.</h1>
-<h3 align="center">I'm a student with a passion for unravelling the stories hidden in data.I am proficient in utilizing programming languages such as Python to perform data analysis tasks. My experience with SQL enables me to extract, transform, and manipulate data. In addition to technical skills, I am adept at using data visualization tools such as Tableau to create visually appealing and interactive representations of data. Dedicated. I prioritize staying up-to-date with the latest tools, techniques, and industry trends in the field of data analysis.</h3>
+<h3 align="center">I'm a student with a passion for unravelling the stories hidden in data.I am proficient in utilizing programming languages such as Python to perform data analysis tasks. My experience with SQL enables me to extract, transform, and manipulate data. In addition to technical skills, I am adept at using data visualization tools such as Tableau to create visually appealing and interactive representations of data, and as a dedicated person I prioritize staying up-to-date with the latest tools, techniques, and industry trends in the field of data analysis.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kdkpatel&label=Profile%20views&color=0e75b6&style=flat" alt="kdkpatel" /> </p>
 
