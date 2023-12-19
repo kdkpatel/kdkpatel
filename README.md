@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Analysis Process](https://medium.com/@kadambaripatel79/data-analysis-process-8eecb2bc696d?source=rss-71f27bd90b69------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
