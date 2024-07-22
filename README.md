@@ -1,5 +1,5 @@
 
-![MasterHead](https://static.vecteezy.com/system/resources/previews/008/689/741/original/data-analysis-banner-web-icon-analytics-data-mining-data-filter-pie-chart-presentation-database-flowchart-calculator-illustration-concept-vector.jpg)
+//![MasterHead](https://static.vecteezy.com/system/resources/previews/008/689/741/original/data-analysis-banner-web-icon-analytics-data-mining-data-filter-pie-chart-presentation-database-flowchart-calculator-illustration-concept-vector.jpg)
 
 <h1 align="center">Hi 👋, I'm Kadambari Patel.</h1>
 <h3 align="center">I'm a data enthusiast with a keen interest in discovering narratives within datasets. My skills include proficiency in programming languages like Python for in-depth data analysis. Leveraging my experience in SQL, I adeptly extract, transform, and manipulate data. Beyond technical abilities, I excel in crafting visually engaging and interactive data representations using tools like Tableau and PowerBI. As a dedicated individual, I prioritize staying current with the latest tools, techniques, and industry trends in the dynamic field of data analysis.</h3>
